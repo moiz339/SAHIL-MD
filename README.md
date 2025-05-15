@@ -118,13 +118,12 @@ This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICEN
 <p align="center">© Sahil804 2025</p>
 
   
-  
-com/LyHic3i.gif'/></a>
+
 
 - **Star ⭐ the repo if you like SAHIL-MD.**
 
 ## Main Developer
-<a href="https://github.com/Sahilpti804"><img src="https://github.com/Sahilpti804.png" width="250" height="250" alt="Sahilpti804"/></a>
+<a href="https://github.com/Sahilpti804"><img src="https://files.catbox.moe/tsoqqb.jpg" width="250" height="250" alt="Sahilpti804"/></a>
   
 `SAHIL-MD - By Sahil804`
 
